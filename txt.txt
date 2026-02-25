@@ -1,0 +1,35 @@
+REPORTE DE ESTUDIANTES
+====================================
+
+ID: 1
+Nombre: Manuel
+Edad: 21
+Carrera: Programacion
+Promedio: 7.0
+Estado: REGULAR
+------------------------------------
+
+ID: 2
+Nombre: Mabel
+Edad: 33
+Carrera: Programacion
+Promedio: 6.0
+Estado: REGULAR
+------------------------------------
+
+ID: 3
+Nombre: Gonzalo
+Edad: 24
+Carrera: Programacion
+Promedio: 10.0
+Estado: REGULAR
+------------------------------------
+
+ID: 55
+Nombre: Lucas
+Edad: 18
+Carrera: Programacion
+Promedio: 2.0
+Estado: RECURSANDO
+------------------------------------
+

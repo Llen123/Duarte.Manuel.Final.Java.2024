@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Manuel",
+    "edad": 21,
+    "carrera": "Programacion",
+    "promedio": 7.0,
+    "estadoAcademico": "REGULAR"
+  },
+  {
+    "id": 2,
+    "nombre": "Mabel",
+    "edad": 33,
+    "carrera": "Programacion",
+    "promedio": 6.0,
+    "estadoAcademico": "REGULAR"
+  },
+  {
+    "id": 3,
+    "nombre": "Gonzalo",
+    "edad": 24,
+    "carrera": "Programacion",
+    "promedio": 10.0,
+    "estadoAcademico": "REGULAR"
+  },
+  {
+    "id": 55,
+    "nombre": "Lucas",
+    "edad": 18,
+    "carrera": "Programacion",
+    "promedio": 2.0,
+    "estadoAcademico": "RECURSANDO"
+  }
+]
